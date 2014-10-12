@@ -52,6 +52,13 @@ Hint: Use Google!
 
 ---
 
+class: center, middle
+
+# Kitten
+![cat](./assets/images/cat.jpg)
+
+---
+
 layout: false
 
 .left-column[
