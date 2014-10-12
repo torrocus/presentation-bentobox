@@ -52,13 +52,6 @@ Hint: Use Google!
 
 ---
 
-class: center, middle
-
-# Kitten
-![cat](./assets/images/cat.jpg)
-
----
-
 layout: false
 
 .left-column[
@@ -75,6 +68,8 @@ layout: false
 **Style & structure**: HTML, CSS, XML, JavaScript, AJAX
 
 **Outside**: SaaS (Software as a Service)
+
+![cat](./assets/images/cat.jpg)
 ]
 
 ---
