@@ -52,6 +52,26 @@ Hint: Use Google!
 
 ---
 
+layout: false
+
+.left-column[
+  ## Task
+  ## Solution
+]
+.right-column[
+**Storage**: MySQL, MongoDB
+
+**Infrastructure**: Unicorn, Apache
+
+**Logic**: Django, CakePHP, Ruby, Python, PHP, RoR (Ruby on Rails)
+
+**Style & structure**: HTML, CSS, XML, JavaScript, AJAX
+
+**Outside**: SaaS (Software as a Service)
+]
+
+---
+
 name: last-page
 template: inverse
 
