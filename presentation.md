@@ -30,16 +30,22 @@ layout: false
 ]
 .right-column[
 Put into the box:
+- MySQL
+- MongoDB
 - HTML
 - CSS
+- Unicorn
+- RoR
 - Django
-- MySQL
-- AJAX
+- CakePHP
+- Ruby
+- Python
+- JavaScript
 - PHP
+- XML
+- AJAX
 - SaaS
 - Apache
-- RoR
-- Unicorn
 
 Hint: Use Google!
 ]
